@@ -1,5 +1,4 @@
 *.*
-!*.ris
 !*.sh
 !*.R
 !*.Rmd
@@ -10,3 +9,4 @@
 !*.pl
 !*.tif
 !.gitignore
+!*.ris
