@@ -10,4 +10,4 @@
 !*.pl
 !*.tif
 !.gitignore
-!*.ris
+!APOE_refseq_transcript.fasta
